@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "student_name": "Mercy Nzau",
+      "gender": "female",
+      "id_no": "00000000",
+      "age": 50,
+      "course": "SD"
+    },
+    {
+      "student_name": "Cathy Maseki",
+      "gender": "female",
+      "id_no": "111111",
+      "age": 5,
+      "course": "SD"
+    }
+  ]
+}

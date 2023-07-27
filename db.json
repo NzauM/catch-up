@@ -1,0 +1,76 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_name": "Mercy Nzau",
+      "gender": "female",
+      "id_no": "00000000",
+      "age": 50,
+      "course": "SD"
+    },
+    {
+      "id": 2,
+      "student_name": "Cathy Maseki",
+      "gender": "female",
+      "id_no": "111111",
+      "age": 5,
+      "course": "SD"
+    },
+    {
+      "age": 5,
+      "gender": "Female",
+      "student_name": "mercy",
+      "id_no": "9087",
+      "course": "DS",
+      "id": 3
+    },
+    {
+      "age": 5,
+      "gender": "Female",
+      "student_name": "mercy",
+      "id_no": "9087",
+      "course": "DS",
+      "id": 4
+    },
+    {
+      "age": 5,
+      "gender": "Female",
+      "student_name": "mercy",
+      "id_no": "9087",
+      "course": "DS",
+      "id": 5
+    },
+    {
+      "age": 5,
+      "gender": "Female",
+      "student_name": "mercy",
+      "id_no": "9087",
+      "course": "DS",
+      "id": 6
+    },
+    {
+      "age": 5,
+      "gender": "Female",
+      "student_name": "mercy",
+      "id_no": "9087",
+      "course": "DS",
+      "id": 7
+    },
+    {
+      "age": 5,
+      "gender": "Female",
+      "student_name": "Leroy KAriuki",
+      "id_no": "9087",
+      "course": "DS",
+      "id": 8
+    },
+    {
+      "age": 5,
+      "gender": "Female",
+      "student_name": "mercy",
+      "id_no": "9087",
+      "course": "fgvhm,.",
+      "id": 9
+    }
+  ]
+}
